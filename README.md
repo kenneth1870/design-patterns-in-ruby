@@ -1,7 +1,5 @@
 # Design Patterns in Ruby
 
-Summary of the design patterns explained in the book [Design Patterns in Ruby](http://designpatternsinruby.com/).
-
 ## Design Patterns
 
 ### GoF Patterns
@@ -18,6 +16,14 @@ Summary of the design patterns explained in the book [Design Patterns in Ruby](h
 * **Singleton**: have a single instance of certain class across the application
 * **Strategy**: varies part of an algorithm at runtime
 * **Template**: redefines certain steps of an algorithm without changing the algorithm's structure
+
+### Object-oriented design concepts
+* [Abstract classes ](https://github.com/kenneth1870/design-patterns-in-ruby/blob/master/abstract.rb)
+
+* [Inheritance](https://github.com/kenneth1870/design-patterns-in-ruby/blob/master/inheritance.rb)
+* [Interfaces](https://github.com/kenneth1870/design-patterns-in-ruby/blob/master/interface.rb)
+
+* [Polymorphism](https://github.com/kenneth1870/design-patterns-in-ruby/blob/master/polymorphism.rb) 
 
 
 ### Patterns For Ruby
